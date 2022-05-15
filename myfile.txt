@@ -1,3 +1,5 @@
 Đến con khỉ cũng biết dùng git (master)
 
 Tạo issue1 và checkout issue1 (thêm)
+
+Tạo issue2 và checkout issue2 (thêm)
