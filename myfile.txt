@@ -2,4 +2,8 @@
 
 Tạo issue1 và checkout issue1 (thêm)
 
+
 Tạo issue2 và checkout issue2 (thêm)
+
+Tạo issue3 và checkout issue3 (thêm)
+
